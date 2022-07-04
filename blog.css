@@ -1,0 +1,228 @@
+.logo{
+    float: left;
+    margin-top: -70px ;
+    min-width: 50px;
+    min-height: 50px;
+    mix-blend-mode: normal;
+   
+    
+}
+
+.sobre{
+      float: right;
+      margin-right: 355px;
+      font-family: calibri;
+      font-size: 20px;
+      font-weight: bold;
+}
+
+.nome{
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    margin-top: -105px ;
+    margin-left: 720px;
+    font-size: 15px;
+    font-family: calibri;
+}
+
+body{
+    background-color: lightsteelblue;
+    margin: auto;
+    width: 1300px;
+    margin-top: auto;
+
+    
+
+}
+
+.objetivo{
+    float: left;
+    line-height: 20px;
+    text-align: left;
+    margin-top: -90px ;
+    margin-left: 190px;
+    font-size: 20px;
+    font-family: calibri;
+    font-weight: bold;
+
+}
+
+.meio{
+    float: left;
+   margin-top: -50px;
+   text-align: left;
+   min-width: 50px;
+   min-height: 50px;
+   mix-blend-mode: normal;
+   margin-right: 220px;
+   font-family: calibri;
+   font-size:15px;
+   line-height: 20px;
+
+}
+
+
+
+
+.plat{
+    float: left;
+    margin-top: 50px ;
+    margin-left: -560px;
+    font-family: calibri;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.video{
+    
+    margin-top: 80px;
+    float: left;
+    margin-left: -550px;
+
+}
+
+.kz{
+    margin-top: 80px;
+    float: left;
+    margin-left: -350px;
+
+}
+
+.kh{
+    margin-top: 100px;
+    float: left;
+    margin-left: -750px
+
+}
+
+.plataforma-esquerda{
+    float: left;
+    margin-top: 250px;
+    font-family: calibri;
+    font-size: 20px;
+    margin-left: -750px;
+
+}
+
+.lista-esquerda{
+    float: left;
+    margin-top: 285px;
+    margin-left: -750px ;
+    font-family: calibri;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.sobre-khan{
+    float: left;
+    margin-top: 300px;
+    margin-left: -750px;
+    font-family: calibri;
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+
+.lista-es{
+    float: left;
+    margin-top: 425px;
+    margin-left: -750px ;
+    font-family: calibri;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.curso-em-video{
+    float: left;
+    margin-top: 450px;
+    margin-left: -750px;
+    font-family: calibri;
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+.listaesquerda{
+    float: left;
+    margin-top: 565px;
+    margin-left: -750px ;
+    font-family: calibri;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.curso-kenzie{
+    float: left;
+    margin-top: 590px;
+    margin-left: -750px;
+    font-family: calibri;
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+.git{
+    float: left;
+    margin-top: 45px;
+    margin-left: -60 ;
+    font-family: calibri;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.lista-git{
+    float: left;
+    margin-top: 90px;
+    margin-left: -80px ;
+    font-family: calibri;
+    font-size: 15px;
+
+}
+
+.o-que-é{
+    float: left;
+    margin-top: 120px;
+    margin-left: -110px ;
+    font-family: calibri;
+    font-size: 15px;
+}
+
+
+.meugit{
+    float:left;
+    margin-top: 250px;
+    margin-left: -255px;
+    line-height: 20px;
+}
+
+.lingua{
+    float: left;
+    margin-top: 300px;
+    margin-left: -100px;
+    font-family: calibri;
+    font-size: 20px;
+
+}
+
+.ht{
+    float: left;
+    margin-left: -220px  ;
+    margin-top: 350px ;
+}
+
+.cs{
+    float: left;
+    margin-left: -150px;
+    margin-top: 350px ;
+}
+
+.js{
+    float: left;
+    margin-left: -80px ;
+    margin-top: 350px;
+}
